@@ -1,4 +1,4 @@
-# Spotify Charst - Exploratory Data Analysis
+# Spotify Charts - Exploratory Data Analysis
 Project with spotify's chart dataset 
 
 The goal of this Project is to explore, bring insights and curiosities from the world of music. For this, we use data from Spotify, the largest music streaming service in the world, which according to Forbes holds more than 31% of the global market.
